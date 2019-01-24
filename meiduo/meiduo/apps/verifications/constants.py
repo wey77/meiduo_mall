@@ -1,0 +1,12 @@
+# 短信验证码有效时长
+SMS_CODE_REDIS_EXPIRES = 300
+
+# 短信验证码标记有效时长
+SEND_SMS_CODE_INTERVAL = 60
+
+# 云通讯短信有效时长
+YUNTONGXUN_EXPIRES = 5
+
+# 云通讯模板
+YUNTONGXUN_TEMPLATE = 1
+

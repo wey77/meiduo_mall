@@ -1,0 +1,2 @@
+YUNTONGXUN_EXPIRES = 5  # 云通讯短信过期时长
+YUNTONGXUN_TEMPLATE = 1  # 云通讯短信模板
